@@ -1,6 +1,6 @@
 # Sales Performance Dashboard
 
-<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiNmNjMjdhNDgtYmY4OC00ZThjLTg3YWYtNGVkOTM5NzU5MTNiIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Sales Performance Dashboard</a></p>
+<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiODRjNDZlYTQtOTA3Zi00MjMxLTgyMTktOTcxNGUzMGU1NjdkIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Sales Performance Dashboard</a></p>
 
 Power BI dashboard developed to analyse sales performance across products, countries, customer segments and time periods.
 
