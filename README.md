@@ -1,8 +1,6 @@
 # Sales Performance Dashboard
 
-<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiODRjNDZlYTQtOTA3Zi00MjMxLTgyMTktOTcxNGUzMGU1NjdkIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the Sales Performance Dashboard</a></p>
-
-Power BI dashboard developed to analyse sales performance across products, countries, customer segments and time periods.
+A Power BI dashboard developed to analyse sales performance across products, countries, customer segments and time periods.
 
 The report provides an executive overview of key commercial metrics, including Gross Sales, Profit and Units Sold, while allowing users to explore performance through interactive filters.
 
@@ -29,6 +27,4 @@ The report provides an executive overview of key commercial metrics, including G
 - Data Modeling
 - Data Visualization
 
-## Preview
-
-![Sales Performance Dashboard](sales_perf_dashboard.png)
+<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiODRjNDZlYTQtOTA3Zi00MjMxLTgyMTktOTcxNGUzMGU1NjdkIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the Sales Performance Dashboard</a></p>
