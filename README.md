@@ -3,6 +3,7 @@
 A Power BI dashboard developed to analyse sales performance across products, countries, customer segments and time periods.
 
 The report provides an executive overview of key commercial metrics, including Gross Sales, Profit and Units Sold, while allowing users to explore performance through interactive filters.
+<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiODRjNDZlYTQtOTA3Zi00MjMxLTgyMTktOTcxNGUzMGU1NjdkIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the Sales Performance Dashboard</a></p>
 
 ## Key Insights
 
@@ -27,4 +28,4 @@ The report provides an executive overview of key commercial metrics, including G
 - Data Modeling
 - Data Visualization
 
-<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiODRjNDZlYTQtOTA3Zi00MjMxLTgyMTktOTcxNGUzMGU1NjdkIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the Sales Performance Dashboard</a></p>
+
