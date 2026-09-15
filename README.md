@@ -28,4 +28,6 @@ The report provides an executive overview of key commercial metrics, including G
 - Data Modeling
 - Data Visualization
 
+## Dashboard Preview
 
+![Retail Sales & Customer Analytics Dashboard](sales_perf_dashboard.png)
