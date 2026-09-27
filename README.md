@@ -1,25 +1,30 @@
 # Sales Performance Dashboard
 
-A Power BI dashboard developed to analyse sales performance across products, countries, customer segments and time periods.
+A Power BI dashboard designed to analyse sales performance across products, countries, customer segments and selected time periods.
 
-The report provides an executive overview of key commercial metrics, including Gross Sales, Profit and Units Sold, while allowing users to explore performance through interactive filters.
-<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiODRjNDZlYTQtOTA3Zi00MjMxLTgyMTktOTcxNGUzMGU1NjdkIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the Sales Performance Dashboard</a></p>
+The report provides an executive overview of key commercial metrics, including **Gross Sales, Net Sales, Profit, Profit Margin and Units Sold**, while allowing users to explore performance through interactive filters.
+
+It also includes **custom report page tooltips** to provide additional context, such as monthly year-over-year comparisons and product-level performance details.
+
+[Click here to open the Sales Performance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODRjNDZlYTQtOTA3Zi00MjMxLTgyMTktOTcxNGUzMGU1NjdkIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9)
 
 ## Key Insights
 
-- Sales performance over time by month and customer segment
+- Sales performance over time through a monthly trend view
 - Gross sales contribution by product
-- Sales performance by country
-- Overall profit, gross sales and units sold
-- Interactive analysis by year, country and product
+- Product-level profitability and margin analysis
+- Comparison of commercial performance across countries and customer segments
+- Year-over-year comparison for selected periods
+- Detailed product performance including discounts, net sales and profit margin
 
 ## Dashboard Features
 
-- KPI cards for Gross Sales, Profit and Units Sold
-- Monthly sales trend analysis
-- Product performance comparison
-- Country-level sales analysis
-- Interactive slicers for Year, Country and Product
+- KPI cards for **Gross Sales, Net Sales, Profit, Profit Margin and Units Sold**
+- Monthly gross sales trend analysis
+- Product contribution comparison
+- Product performance matrix with **Gross Sales, Discounts, Net Sales, Profit and Profit Margin**
+- Custom report page tooltips with additional detail and YoY comparisons
+- Interactive slicers for **Period, Country, Product and Segment**
 
 ## Tools
 
@@ -30,4 +35,4 @@ The report provides an executive overview of key commercial metrics, including G
 
 ## Dashboard Preview
 
-![Retail Sales & Customer Analytics Dashboard](salesperformance.png)
+![Sales Performance Dashboard](salesperformance.png)
