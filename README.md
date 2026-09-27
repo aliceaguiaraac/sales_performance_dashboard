@@ -30,4 +30,4 @@ The report provides an executive overview of key commercial metrics, including G
 
 ## Dashboard Preview
 
-![Retail Sales & Customer Analytics Dashboard](sales_perf_dashboard.png)
+![Retail Sales & Customer Analytics Dashboard](salesperformance.png)
